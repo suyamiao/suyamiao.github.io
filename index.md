@@ -15,15 +15,17 @@
   </tr>
 </table>
 
+
 ### 志愿方向
 - 网络信息与安全
 
+
 ### 荣誉奖励
-#### 校二等奖学金
-#### 三好学生
-#### 万里之星之自强之星
-#### 万里之星之公益之星
-#### 国家励志奖学金
+-  校二等奖学金
+-  三好学生
+-  万里之星之自强之星
+-  万里之星之公益之星
+-  国家励志奖学金
 
 
 ### 个人日常
@@ -37,6 +39,17 @@
 	<p style="text-align:center";>
 		<img src="images/小鸡.jpg" alt="小鸡小鸡" width="200" height="210" />
 	</p>
+	<hr>
+	</div>
+	<div>
+	<h1 style="text-align:center;font-family:YouYuan;background-color:#A6FFFF;font-size:30px;">下面是一个简单的列表</h1>
+	<p style="font-family:YouYuan;color:#6FB7B7;font-size:20px;"> 主要显示了我在闲暇时候想做的一些事情</p>
+	<ul>
+		<li>睡觉</li>
+		<li>吃水果</li>
+		<li>逛街</li>
+		<li>出去旅游</li>
+	</ul>
 	<hr>
 	</div>
 </body>
