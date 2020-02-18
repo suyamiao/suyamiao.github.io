@@ -37,7 +37,7 @@
 	<a href="http://www.xiachufang.com/category/1136/" >鸡肉做法大全</a>
 	<p style="font-family:YouYuan;color:black;font-size:15px;"> Now here comes a cute picture.</p>
 	<p style="text-align:center";>
-		<img src="images/小鸡.jpg" alt="小鸡小鸡" width="200" height="210" />
+		<img src="t2.jpg" alt="鸡肉煲" width="200" height="210" />
 	</p>
 	<hr>
 	</div>
@@ -45,6 +45,7 @@
 	<h1 style="text-align:center;font-family:YouYuan;background-color:#A6FFFF;font-size:30px;">下面是一个简单的列表</h1>
 	<p style="font-family:YouYuan;color:#6FB7B7;font-size:20px;"> 主要显示了我在闲暇时候想做的一些事情</p>
 	<ul>
+		<li>看剧</li>
 		<li>睡觉</li>
 		<li>吃水果</li>
 		<li>逛街</li>
