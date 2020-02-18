@@ -1,16 +1,43 @@
 <table border="0">
   <tr>
-    <td width="90%">
-      <h1>个人信息<h1>
-      <p><b>姓名：###</b></p>
-      <p><b>学校：###</b></p>
-      <p><b>邮箱：</b></p>
+    <td width="75%">
+      <h1>个人信息</h1>
+      <p><b>姓名：苏亚妙</b></p>
+       <p><b>性别：女</b></p>
+        <p><b>专业班级：通信工程173班</b></p>
+      <p><b>学校：浙江万里学院</b></p>
+      <p><b>邮箱：2634901553@qq.com</b></p>
+      <p><b>地址：海南省东方市新龙镇龙卧村</b></p>
+    </td>
+    <td width="25%">
+      <img src="/t1.jpg" width="100%"> 
+    </td>
   </tr>
-  </table>
-  
-### 个人日常
-#### 4444444
+</table>
 
-### 荣誉奖项
-#### 二等
-#### 万里
+### 志愿方向
+- 网络信息与安全
+
+### 荣誉奖励
+#### 校二等奖学金
+#### 三好学生
+#### 万里之星之自强之星
+#### 万里之星之公益之星
+#### 国家励志奖学金
+
+
+### 个人日常
+ <html>
+<body>
+	<div style="height:400px;width:800px;float:center;">
+    <h1 style="text-align:center;font-family:YouYuan;background-color:#A6FFFF;font-size:30px;">我最爱的食物</h1>
+    <p style="font-family:STFangsong;color:#6FB7B7;font-size:20px;">我最爱的食物很多，<b>其中荤素而言喜欢吃<sup>肉</sup>，</b> 肉类最喜欢鸡肉和猪肉</p>
+	<a href="http://www.xiachufang.com/category/1136/" >鸡肉做法大全</a>
+	<p style="font-family:YouYuan;color:black;font-size:15px;"> Now here comes a cute picture.</p>
+	<p style="text-align:center";>
+		<img src="images/小鸡.jpg" alt="小鸡小鸡" width="200" height="210" />
+	</p>
+	<hr>
+	</div>
+</body>
+  </html>
