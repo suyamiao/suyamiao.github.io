@@ -8,7 +8,7 @@
   </tr>
   </table>
   
-<table border="0">
+<table>
   <tr>  
      <td width="90%">
 <h1> ###AAAAA<h1>
