@@ -1,27 +1,37 @@
-###个人信息
-####苏亚妙
-####女
-####大学本科生
-####浙江万里学院
-####2634901553@qq.com
-####海南省东方市新龙镇龙卧村
+## Welcome to GitHub Pages
 
+You can use the [editor on GitHub](https://github.com/suyamiao/suyamiao.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-###AAAAA
--AAAAAA
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-###BBBBB
--BBBB
--2018年10月荣获“校二等奖学金”
--2018年10月荣获“三好学生”
--2018年10月荣获“自强之星之万里之星”
--2018年10月荣获“国家励志奖学金”
--2019年10月荣获“校二等奖学金”
--2019年10月荣获“三好学生”
--2019年10月荣获“公益之星之万里之星”
--2019年10月荣获“国家励志奖学金””
+### Markdown
 
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-###日常分享
-11
+```markdown
+Syntax highlighted code block
 
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/suyamiao/suyamiao.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
