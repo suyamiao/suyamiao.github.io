@@ -8,13 +8,13 @@
   </tr>
   </table>
   
-<table>
+<html>
   <tr>  
      <td width="90%">
 <h1> ###AAAAA<h1>
  <p><b>####44444</b></p>
   </tr>
-  </table>
+  </html>
  
  ###bbbb
  ####77777
