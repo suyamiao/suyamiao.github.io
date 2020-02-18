@@ -39,9 +39,10 @@
 	<p style="text-align:center">
 		<img src="t2.jpg" alt="鸡肉煲" width="200" height="210" />
 	</p>
-	<br><br>
+	
 	<hr>
 	</div>
+	<br><br><br><br>
 	<div>
 	<h1 style="text-align:center;font-family:YouYuan;background-color:#A6FFFF;font-size:30px;">下面是一个简单的列表</h1>
 	<p style="font-family:YouYuan;color:#6FB7B7;font-size:20px;"> 主要显示了我在闲暇时候想做的一些事情</p>
