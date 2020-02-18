@@ -36,7 +36,7 @@
     <p style="font-family:STFangsong;color:#6FB7B7;font-size:20px;">我最爱的食物很多，<b>其中荤素而言喜欢吃<sup>肉</sup>，</b> 肉类最喜欢鸡肉和猪肉</p>
 	<a href="http://www.xiachufang.com/category/1136/" >鸡肉做法大全</a>
 	<p style="font-family:YouYuan;color:black;font-size:15px;"> Now here comes a cute picture.</p>
-	<p style="text-align:center";>
+	<p style="text-align:center">
 		<img src="t2.jpg" alt="鸡肉煲" width="200" height="210" />
 	</p>
 	<hr>
