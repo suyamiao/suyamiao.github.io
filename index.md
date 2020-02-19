@@ -4,9 +4,11 @@
       <h1>个人信息</h1>
       <p><b>姓名：苏亚妙</b></p>
        <p><b>性别：女</b></p>
+	   <p><b>政治面貌：预备党员</b></p>
         <p><b>专业班级：通信工程173班</b></p>
       <p><b>学校：浙江万里学院</b></p>
       <p><b>邮箱：2634901553@qq.com</b></p>
+      <p><b>微博：妙记忆i</b></p>    
       <p><b>地址：海南省东方市新龙镇龙卧村</b></p>
     </td>
     <td width="25%">
@@ -20,7 +22,7 @@
 - 网络信息与安全
 
 
-###目前在学
+### 目前在学
 - 网络编辑技术
 - 网络安全技术
 - 网络工程技术
@@ -43,7 +45,6 @@
 	<a href="http://www.xiachufang.com/category/1136/" >鸡肉做法大全</a>
 	<p style="font-family:YouYuan;color:black;font-size:15px;"> Now here comes a cute picture.</p>
 		<img src="t2.jpg" alt="鸡肉煲" width="255" height="255" />
-	</p>
 	
 	<hr>
 	</div>
